@@ -1,0 +1,6 @@
+IMAGE QUALITY EVALUATION REPORT
+======================================================================
+
+Degraded:  MSE=574.1735, PSNR=20.5404 dB, SSIM=0.2567
+Restored:  MSE=57.2431, PSNR=30.5536 dB, SSIM=0.6168
+Enhanced:  MSE=204.2502, PSNR=25.0292 dB, SSIM=0.4002
